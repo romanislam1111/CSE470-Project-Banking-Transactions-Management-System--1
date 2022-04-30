@@ -35,15 +35,6 @@ $ php artisan migrate
 
 ```
 
-
-## Credits
-
-Ambrose Bako
-
-Don't forget to follow me on twitter @bakoambrose
-
-❤️❤️❤️ 
-
 ## License
 
 The MIT License (MIT).
