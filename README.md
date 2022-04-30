@@ -1,4 +1,4 @@
-# Online Banking
+# Banking Transactions Management System
 
 An Online Banking Platform Built With Laravel
 
