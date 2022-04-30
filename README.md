@@ -1,6 +1,6 @@
 # Banking Transactions Management System
 
-An Online Banking Platform Built With Laravel
+An online Banking Platform Built With Laravel
 
 
 ## Usage
